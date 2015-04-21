@@ -32,75 +32,37 @@
   color: $grey-color;
 }
 
-.site-nav {
-  /*float: right;*/
-  line-height: 56px;
-  border-top: 1px solid $grey-color-light;
-  border-bottom: 1px solid $grey-color-light;
-  .menu-icon {
-    display: none;
-  }
 
-  .page-link {
-    color: $grey-color;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the first one
-
-    margin-left: 10px;
-    margin-right: 10px;
-
-  }
-
-  a{
-    text-decoration: none;
-
-    &:hover {
-      color: $text-color;
-      text-decoration: none;
-      //font-weight: bold;
-    }
-  }
-
-
-  @include media-query($on-palm) {
-    position: relative;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: center;
-
-    .menu-icon {
-      display: block;
-      line-height: 0;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 30px;
-
-        path {
-          fill: $grey-color-dark;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-    }
-  }
-
+/*bzhnja modify the navigation bar*/
+.page-navbar {
+  margin: 0 auto 6px;
+  overflow: hidden;
+  background: #000;
+}
+.page-navbar .page-navbar-container {
+  margin: 0 7.5%;
+}
+.page-navbar .page-navbar-container .page-nav {
+  font-size: 13px;
+  list-style: none;
+  margin: 0 0 0 -10px;
+  padding-left: 0;
+}
+.page-navbar .page-navbar-container .page-nav li {
+  float: left;
+  position: relative;
+}
+.page-navbar .page-navbar-container .page-nav a {
+  color: #eee;
+  display: block;
+  line-height: 3.5em;
+  padding: 0 1.25em;
+  text-decoration: none;
+}
+.page-navbar .page-navbar-container .page-nav a:hover,
+.page-navbar .page-navbar-container .page-nav a:focus {
+  color: #222;
+  background: #fff;
 }
 
 

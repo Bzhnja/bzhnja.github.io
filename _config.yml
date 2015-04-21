@@ -1,27 +1,27 @@
 ### Site info:
-title: Freshman21
-tagline: Another Jekyll theme, Freshman twenty-first
-author: Lijia Yu
-email: yu@lijiayu.net
+title: csxiaofei's blog
+tagline: Six years later, it will be 2021, and I will be 30.
+author: csxiaofei
+email: bzhnja@gmail.com
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll, theme, Freshman21"
-baseurl: "/freshman21" # the subpath of your site, e.g. /blog
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+keywords: "computer science, programming, travelling, on the way"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bzhnja.github.io" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
-twitter_username: yulijia
-github_username:  yulijia
-disqus_shortname: freshman21
-favicon:     "/images/favicon.ico"
-aboutme: Hi, this is Lijia Yu. I made the Freshman21 theme. Please enjoy it. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg # your photo.
+twitter_username: GeSpontaneously
+github_username:  bzhnja
+disqus_shortname: csxiaofei
+favicon:     "/images/cs.ico"
+aboutme: Hi, this is csxiaofei. "cs" is the abbreviation of Computer Science, and "xiaofei" is my nickname. # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/me.jpeg" # your photo.
 
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown when ShowContactInfo == True
-default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+default_column: "one" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "cn" # blog sidebar language set, only include: English(en) and Chinese (cn)
 
 locales:
     en:

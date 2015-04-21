@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font-family: $base-font-family;
+  font-family: "PT Serif", Georgia, "Microsoft YaHei", Arial, sans-serif;
   font-size: $base-font-size;
   line-height: $base-line-height;
   font-weight: 300;
@@ -49,8 +49,8 @@ ul, ol, dl, figure,
   max-width:         calc(#{$page-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: 0px;
+  padding-left: 0px;
   padding-top:30px;
 
   background-color:#fff;
