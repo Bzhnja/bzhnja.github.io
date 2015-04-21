@@ -3,7 +3,7 @@ title: csxiaofei's blog
 tagline: Six years later, it will be 2021, and I will be 30.
 author: csxiaofei
 email: bzhnja@gmail.com
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "This is just csxiaofei's blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "computer science, programming, travelling, on the way"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bzhnja.github.io" # the base hostname & protocol for your site
