@@ -44,10 +44,3 @@ $ mv freshman21/ yourblogname.github.io/
 - Syntax highlighting
 
 
-### Demo
-
-Single column, please see [my own blog](http://yulijia.net/en/)
-
-Two columns, please see the [theme website](http://yulijia.net/freshman21/)
-
-
