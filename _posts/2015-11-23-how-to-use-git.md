@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git使用笔记(updating...)
+title: Git使用笔记
 categories: 
   - git
 tags:
