@@ -1,9 +1,9 @@
 ### Site info:
-title: csxiaofei's blog
-tagline: 不积跬步无以至千里，不积小流无以成江海
-author: csxiaofei
+title: Jankin's Notes
+tagline: 长风破浪会有时，直挂云帆济沧海
+author: Jakin
 email: bzhnja@gmail.com
-description: "This is just csxiaofei's blog." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "This is just Jakin's Notes." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "computer science, programming, travelling, on the way"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bzhnja.github.io" # the base hostname & protocol for your site
@@ -12,9 +12,9 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: GeSpontaneously
 github_username:  bzhnja
-disqus_shortname: csxiaofei
+disqus_shortname: Jakin
 favicon:     "/images/cs.ico"
-aboutme: Hi, this is csxiaofei. "cs" is the abbreviation of Computer Science, and "xiaofei" is my nickname. # these are shown on aboutme-sidebar.
+aboutme: Hi, this is Jakin. "cs" is the abbreviation of Computer Science, and "xiaofei" is my nickname. # these are shown on aboutme-sidebar.
 aboutme_photo: "/images/me.jpeg" # your photo.
 
 
